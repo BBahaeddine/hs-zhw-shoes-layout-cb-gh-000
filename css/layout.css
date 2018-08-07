@@ -21,6 +21,19 @@
 .clear {
   clear: both;
 }
+.col-1 {
+  float: left;
+  width: 32%;
+  margin-right: 2%;
+}
+.col-2 {
+  float: left;
+  width: 64%;
+  margin-right: 2%;
+}
+.col-3 {
+  margin: 2%;
+}
 
 /* Posititoning Classes */
 
